@@ -1,1 +1,7 @@
-
+- [ ] Review Core Concepts
+- [ ] How to Push/Pull/Fetch the repo on GitHub (Practice over discord)
+- [ ] Practice core concepts w/ projects
+  - [ ]  Acronym Converter
+  - [ ]  MadLib Generator
+  - [ ]  Random Password Generator
+  - [ ]  Tic-Tac-Toe
