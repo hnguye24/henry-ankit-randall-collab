@@ -18,3 +18,4 @@ To share examples and references
 1. [if __ name __ == '__ main __'](https://www.youtube.com/watch?v=sugvnHA7ElY)
 1. [*args and **kwargs](https://www.youtube.com/watch?v=GdSJAZDsCZA)
 1. [Input](https://www.youtube.com/watch?v=1gEZi0uJ3sw)
+1. [Don't memorize code](https://www.youtube.com/watch?v=vP2MNhC_Igw&list=WL&index=2)

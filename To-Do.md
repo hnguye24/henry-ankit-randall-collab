@@ -1,9 +1,9 @@
-- [ ] Review Core Concepts
-- [ ] How to Push/Pull/Fetch the repo on GitHub (Practice over discord)
+- [x] Review Core Concepts
+- [x] How to Push/Pull/Fetch the repo on GitHub (Practice over discord)
 - [ ] Practice core concepts w/ projects
-  - [ ]  MadLib game
-  - [ ]  Guess the number (computer)
-  - [ ]  Guess the number (user)
+  - [x]  MadLib game
+  - [x]  Guess the number (computer)
+  - [x]  Guess the number (user)
   - [ ]  Rock Paper Scissors
   - [ ]  Hangman
   - [ ]  Random Password Generator
