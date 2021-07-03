@@ -8,3 +8,4 @@
   - [ ]  Hangman
   - [ ]  Random Password Generator
   - [ ]  Tic-Tac-Toe
+  - [ ]  [Basic Pokemon Game (to learn object orientated programming)](https://www.youtube.com/watch?v=2AK7j8pIh-0)
