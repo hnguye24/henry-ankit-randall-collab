@@ -1,11 +1,17 @@
 - [x] Review Core Concepts
 - [x] How to Push/Pull/Fetch the repo on GitHub (Practice over discord)
 - [ ] Practice core concepts w/ projects
-  - [x]  MadLib game
-  - [x]  Guess the number (computer)
-  - [x]  Guess the number (user)
-  - [ ]  Rock Paper Scissors
-  - [ ]  Hangman
-  - [ ]  Random Password Generator
-  - [ ]  Tic-Tac-Toe
-  - [ ]  [Basic Pokemon Game (to learn object orientated programming)](https://www.youtube.com/watch?v=2AK7j8pIh-0)
+  - [x] MadLib game
+  - [x] Guess the number (computer)
+  - [x] Guess the number (user)
+  - [ ] Rock Paper Scissors
+  - [ ] Hangman
+  - [ ] Random Password Generator
+  - [ ] Tic-Tac-Toe
+  - [ ] [Basic Pokemon Game (to learn object orientated programming)](https://www.youtube.com/watch?v=2AK7j8pIh-0)
+- [ ] Learning Django
+  - [ ] [HTML, CSS, Responsive Design, Bootstrap, Sasss](https://www.youtube.com/watch?v=zFZrkCIc2Oc)
+  - [ ] [Intro to Django](https://www.youtube.com/watch?v=w8q0C-C1js4)
+  - [ ] [Django + SQL](https://www.youtube.com/watch?v=YzP164YANAU)
+  - [ ] [Another Django Tutorial + Project](https://youtu.be/t7DrJqcUviA)
+  - [ ] [Django Example Projects](https://www.youtube.com/watch?v=qPtScmB8CgA)
