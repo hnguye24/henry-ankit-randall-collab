@@ -6,7 +6,7 @@
   - [x] Guess the number (user)
   - [x] Rock Paper Scissors
   - [x] Hangman
-  - [ ] Random Password Generator
+  - [x] Random Password Generator
   - [ ] [Basic Pokemon Game (to learn object orientated programming)](https://www.youtube.com/watch?v=2AK7j8pIh-0)
 - [ ] Learning Django
   - [ ] [HTML, CSS, Responsive Design, Bootstrap, Sasss](https://www.youtube.com/watch?v=zFZrkCIc2Oc)
